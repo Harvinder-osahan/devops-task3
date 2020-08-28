@@ -1,7 +1,7 @@
 # devops-task3
 
 
-CI/CD automation using kubernetes https://medium.com/@manishdwarkas912/ci-cd-automation-using-jenkins-in-kubernetes-pod-e284f4c7c6d0?sk=aa847bdab251c0618738691b174fc3ac
+CI/CD automation using kubernetes
 
 1.Create container image that’s has Jenkins installed using docker file Or You can use the Jenkins Server on RHEL 8/7
 
